@@ -1,0 +1,143 @@
+{
+  "elements": null,
+  "parser": "internal",
+  "source": "oraclecloud",
+  "fill_data_list": [
+    {
+      "name": "Link 1",
+      "value": "https://www.baidu.com"
+    },
+    {
+      "name": "Last Name",
+      "value": "Wang"
+    },
+    {
+      "name": "First Name",
+      "value": "Zicheng"
+    },
+    {
+      "name": "Title",
+      "value": "SENIOR GRAPHICS DESIGNER"
+    },
+    {
+      "name": "Title",
+      "value": "Software QA"
+    },
+    {
+      "name": "Middle Name",
+      "value": ""
+    },
+    {
+      "name": "Preferred First Name",
+      "value": ""
+    },
+    {
+      "name": "Preferred Last Name",
+      "value": ""
+    },
+    {
+      "name": "Phone Number",
+      "value": "4123333333"
+    },
+    {
+      "name": "Phone Number",
+      "value": "4123333333"
+    },
+    {
+      "name": "Phone Number",
+      "value": "4123333333"
+    },
+    {
+      "name": "Address Line 1",
+      "value": "asda 1231adsd "
+    },
+    {
+      "name": "Address Line 2",
+      "value": ""
+    },
+    {
+      "name": "Were you referred by a BNYM Employee?",
+      "value": ""
+    },
+    {
+      "name": "Were you referred by a BNYM Employee?",
+      "value": ""
+    },
+    {
+      "name": "If Yes, please enter the employee first and last name. If no, then enter N/A.",
+      "value": "N/A"
+    },
+    {
+      "name": "Please enter the employee BNYM email address or N/A if this doesn't apply to you",
+      "value": "N/A"
+    }
+  ],
+  "profile_data": {
+    "Education": [
+      {
+        "organization": "New York University",
+        "degree": "Bachelor of Science",
+        "major": "Accounting",
+        "dates": {
+          "startDate": "2023-01-01",
+          "completionDate": "2025-06-10",
+          "isCurrent": false
+        },
+        "School": "New York University",
+        "Degree": "Bachelor's Degree",
+        "Study": "Science",
+        "Start": "2023-01-01",
+        "End": "2025-06-10",
+        "isCurrent": false
+      },
+      {
+        "organization": "Pune University",
+        "degree": "Bachelor's degree",
+        "major": "Computer Science",
+        "dates": {
+          "startDate": "2020-01-16",
+          "completionDate": "2021-02-16",
+          "isCurrent": false
+        },
+        "School": "Pune University",
+        "Degree": "Bachelor's Degree",
+        "Study": "Computer Science",
+        "Start": "2020-01-16",
+        "End": "2021-02-16",
+        "isCurrent": false,
+        "gpa": "5"
+      }
+    ],
+    "location": "Los Angeles, CA",
+    "city": "Los Angeles",
+    "state": "CA",
+    "address_line": "asda 1231adsd ",
+    "postal_code": "90001",
+    "linkedinUrl": "https://www.linkedin.com/in/linda-liu-519844114/",
+    "skills": [
+      "Adobe Creative Suite",
+      "Figma",
+      "Figjam",
+      "ChatGPT",
+      "Midjourney",
+      "Canva",
+      "Slack",
+      "Tailwind",
+      "CSS",
+      "Git",
+      "HTML",
+      "collaboration",
+      "creative problem-solving",
+      "team-work",
+      "adaptability",
+      "communications",
+      "public speaking",
+      "project management",
+      "customer-centric",
+      "leadership",
+      "color schemes"
+    ]
+  },
+  "resume_name": "1227resume_export_update.pdf",
+  "submit_button": null
+}

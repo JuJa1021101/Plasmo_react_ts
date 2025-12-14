@@ -1,0 +1,426 @@
+{
+  "resumeId": "3620077308672020834",
+  "overallRanking": "A",
+  "totalIssues": { "Optional": 6 },
+  "lastDiagnoseTimestamp": 1730396744531,
+  "lastOverallRanking": "A",
+  "personalInfo": {
+    "itemId": "6723c237561e650a38b80bbe_personalInfo",
+    "name": "Romit Soley",
+    "email": "soleyromit@gmail.com",
+    "phoneNumber": "+1 (480) 516-9716",
+    "personalSite": "https://www.romitsoley.com",
+    "location": "Tempe, AZ, USA",
+    "linkedin": "linkedin/com/in/romitsoley",
+    "diagnoseResultList": []
+  },
+  "summary": {
+    "itemId": "6723c237561e650a38b80bbe_summary",
+    "summary": "Experienced Senior Product Designer with 9+ years in the industry, adept at creating user-centered designs across various sectors. Leading design teams, collaborating with cross-functional groups, and delivering high-quality solutions. Seeking opportunities to apply design, technology, and business expertise for impactful product development.",
+    "diagnoseResultList": []
+  },
+  "education": {
+    "itemId": "6723c237561e650a38b80bbe_education",
+    "educationDetails": [
+      {
+        "itemId": "6723c237561e650a38b80bbe_education_0",
+        "organization": "Arizona State University",
+        "accreditation": "Masters, User Experience/Human Computer Interaction",
+        "location": "Tempe, AZ",
+        "dates": {
+          "startDate": "2023-01-01",
+          "completionDate": "2024-12-01",
+          "isCurrent": false
+        },
+        "diagnoseResultList": []
+      },
+      {
+        "itemId": "6723c237561e650a38b80bbe_education_1",
+        "organization": "Symbiosis Institute of Technology",
+        "accreditation": "Bachelors, Computer Science",
+        "location": "Pune, MH",
+        "dates": {
+          "startDate": "2011-07-01",
+          "completionDate": "2014-07-01",
+          "isCurrent": false
+        },
+        "diagnoseResultList": []
+      },
+      {
+        "itemId": "6723c237561e650a38b80bbe_education_2",
+        "organization": "Symbiosis Institute of Technology",
+        "accreditation": "Diploma in Business Management",
+        "location": "Pune, MH",
+        "dates": {
+          "startDate": "2012-07",
+          "completionDate": "2013-07",
+          "isCurrent": false
+        },
+        "diagnoseResultList": []
+      },
+      {
+        "itemId": "6723c237561e650a38b80bbe_education_3",
+        "organization": "DY Patil Polytechnic",
+        "accreditation": "Diploma in Information Technology",
+        "location": "Pune, MH",
+        "dates": {
+          "startDate": "2008-07",
+          "completionDate": "2011-07",
+          "isCurrent": false
+        },
+        "diagnoseResultList": []
+      }
+    ],
+    "diagnoseResultList": []
+  },
+  "workExperience": {
+    "itemId": "6723c237561e650a38b80bbe_workExperience",
+    "workExperienceDetails": [
+      {
+        "itemId": "6723c237561e650a38b80bbe_workExperience_0",
+        "jobTitle": "Senior UX Designer",
+        "organization": "CommerceIQ",
+        "location": "Bengaluru, India",
+        "dates": {
+          "startDate": "2022-05-01",
+          "completionDate": "2022-12-31",
+          "isCurrent": false
+        },
+        "summary": {
+          "itemId": "6723c237561e650a38b80bbe_workExperience_0_summary",
+          "diagnoseResultList": []
+        },
+        "jobDescriptions": [
+          {
+            "itemId": "6723c237561e650a38b80bbe_workExperience_0_jobDescriptions_0",
+            "jobDescription": "Directed the organization's design strategy, incorporating product audits and UX metrics, leading to $1.06M in annual operational savings and a 45% reduction in design and development time across five teams and seven products.",
+            "diagnoseResultList": []
+          },
+          {
+            "itemId": "6723c237561e650a38b80bbe_workExperience_0_jobDescriptions_1",
+            "jobDescription": "Drove concept-to-market success of 'Budget Optimizer/Hourly Bidder,' a B2B product now used by large clients Palmolive, Unilever, and Nestle to manage over $2M budgets on platforms Amazon, Instacart, and Walmart.",
+            "diagnoseResultList": []
+          },
+          {
+            "itemId": "6723c237561e650a38b80bbe_workExperience_0_jobDescriptions_2",
+            "jobDescription": "Created and launched an automated strategy dashboard that forecasts future trends, recommends user campaign processes, and optimizes predictive strategies for business users, leading to improved client outcomes.",
+            "diagnoseResultList": []
+          }
+        ],
+        "diagnoseResultList": []
+      },
+      {
+        "itemId": "6723c237561e650a38b80bbe_workExperience_1",
+        "jobTitle": "Senior Product Designer",
+        "organization": "Zetwerk",
+        "location": "Pune, India",
+        "dates": {
+          "startDate": "2021-10-01",
+          "completionDate": "2022-05-31",
+          "isCurrent": false
+        },
+        "summary": {
+          "itemId": "6723c237561e650a38b80bbe_workExperience_1_summary",
+          "diagnoseResultList": []
+        },
+        "jobDescriptions": [
+          {
+            "itemId": "6723c237561e650a38b80bbe_workExperience_1_jobDescriptions_0",
+            "jobDescription": "Redesigned 'Ziso,' a manufacturing and logistical project management software, optimizing its use across 20 complex projects ranging from $10M to $200M, with a total impact of $1.38B in annual revenue",
+            "diagnoseResultList": [
+              {
+                "_id": "6723c248561e650a38b80bc0",
+                "diagnoseId": "6723c237561e650a38b80bbe",
+                "itemId": "6723c237561e650a38b80bbe_workExperience_1_jobDescriptions_0",
+                "createdTs": 1730396744531,
+                "diagnosedIssues": [
+                  {
+                    "issueType": 5,
+                    "explanation": "The bullet point does not contain unnecessary filler words.",
+                    "issuePayload": null,
+                    "severity": "Optional",
+                    "severityOrder": 3
+                  },
+                  {
+                    "issueType": 6,
+                    "explanation": "The bullet point avoids buzzwords and clichés.",
+                    "issuePayload": null,
+                    "severity": "Optional",
+                    "severityOrder": 3
+                  }
+                ],
+                "improvedVersion": "Led the redesign of 'Ziso,' a project management software, optimizing its use across 20 projects and impacting $1.38B in annual revenue",
+                "diffVersion": "Led  ~~end-to-end~~  **the**  redesign of 'Ziso,' a  ~~manufacturing and logistical~~ project management software, optimizing its use across 20  ~~complex~~ projects  ~~ranging~~  **and**   ~~from~~  **impacting**   ~~$10M to $200M, with a total impact of~~ $1.38B in annual revenue ~~.~~",
+                "totalIssues": { "Optional": 2 }
+              }
+            ]
+          },
+          {
+            "itemId": "6723c237561e650a38b80bbe_workExperience_1_jobDescriptions_1",
+            "jobDescription": "Engineered Ziso’s user experience and design system, enhancing the precision of planning and data tracking for 2,500+ cross-cultural vendors spanning North America, Southeast Asia, Australia, New Zealand, and the Middle East.",
+            "diagnoseResultList": [
+              {
+                "_id": "6723c248561e650a38b80bc1",
+                "diagnoseId": "6723c237561e650a38b80bbe",
+                "itemId": "6723c237561e650a38b80bbe_workExperience_1_jobDescriptions_1",
+                "createdTs": 1730396744531,
+                "diagnosedIssues": [
+                  {
+                    "issueType": 5,
+                    "explanation": "The bullet point does not contain unnecessary filler words.",
+                    "issuePayload": null,
+                    "severity": "Optional",
+                    "severityOrder": 3
+                  },
+                  {
+                    "issueType": 6,
+                    "explanation": "The bullet point avoids buzzwords and clichés.",
+                    "issuePayload": null,
+                    "severity": "Optional",
+                    "severityOrder": 3
+                  }
+                ],
+                "improvedVersion": "Designed Ziso's UX and design system, improving data accuracy for 2,500 vendors across multiple regions",
+                "diffVersion": "~~Spearheaded~~  **Designed**   ~~design of~~ Ziso's UX and design system,  ~~enhancing~~  **improving**   ~~accuracy of planning and tracking~~ data  **accuracy** for 2,500  ~~cross-cultural~~ vendors across  ~~North~~  **multiple**   ~~America, Southeast Asia, Australia, New Zealand, and Middle East.~~  **regions**",
+                "totalIssues": { "Optional": 2 }
+              }
+            ]
+          },
+          {
+            "itemId": "6723c237561e650a38b80bbe_workExperience_1_jobDescriptions_2",
+            "jobDescription": "Improved the organization's design capability by leading a team of 5 designers, implementing OOUX principles, and driving product roadmap initiatives, resulting in better project outcomes for clients, including the Indian government and US telecom sectors",
+            "diagnoseResultList": [
+              {
+                "_id": "6723c248561e650a38b80bc2",
+                "diagnoseId": "6723c237561e650a38b80bbe",
+                "itemId": "6723c237561e650a38b80bbe_workExperience_1_jobDescriptions_2",
+                "createdTs": 1730396744531,
+                "diagnosedIssues": [
+                  {
+                    "issueType": 5,
+                    "explanation": "The bullet point does not contain unnecessary filler words.",
+                    "issuePayload": null,
+                    "severity": "Optional",
+                    "severityOrder": 3
+                  },
+                  {
+                    "issueType": 6,
+                    "explanation": "The bullet point avoids buzzwords and clichés.",
+                    "issuePayload": null,
+                    "severity": "Optional",
+                    "severityOrder": 3
+                  }
+                ],
+                "improvedVersion": "Enhanced design capability by leading a team of 5 designers, using OOUX principles, and improving project outcomes for clients",
+                "diffVersion": "~~Uplifted~~  **Enhanced**   ~~organization's~~ design capability by leading a team of 5 designers,  ~~implementing~~  **using**  OOUX principles, and  ~~driving~~  **improving**   ~~product roadmap initiatives, resulting in improved~~ project outcomes for clients ~~, including the Indian government and US telecom sectors.~~",
+                "totalIssues": { "Optional": 2 }
+              }
+            ]
+          }
+        ],
+        "diagnoseResultList": []
+      },
+      {
+        "itemId": "6723c237561e650a38b80bbe_workExperience_2",
+        "jobTitle": "Senior UX Designer",
+        "organization": "PubMatic",
+        "location": "Pune, India",
+        "dates": {
+          "startDate": "2020-09-01",
+          "completionDate": "2021-10-31",
+          "isCurrent": false
+        },
+        "summary": {
+          "itemId": "6723c237561e650a38b80bbe_workExperience_2_summary",
+          "diagnoseResultList": []
+        },
+        "jobDescriptions": [
+          {
+            "itemId": "6723c237561e650a38b80bbe_workExperience_2_jobDescriptions_0",
+            "jobDescription": "Spearheaded redesign of the onboarding process for an advertising platform, boosting product adoption from 15% to 56%, resulting in a 236% increase in annual revenue, from $126.75M to $256M.",
+            "diagnoseResultList": []
+          },
+          {
+            "itemId": "6723c237561e650a38b80bbe_workExperience_2_jobDescriptions_1",
+            "jobDescription": "Enhanced publisher onboarding time by 60%, reducing setup time from 8 minutes to 4.8 minutes, enabling the onboarding of 300-400 sites daily, and expanding platform capacity and client reach.",
+            "diagnoseResultList": []
+          },
+          {
+            "itemId": "6723c237561e650a38b80bbe_workExperience_2_jobDescriptions_2",
+            "jobDescription": "Audited and rebuilt design system across 6 products, leading a team to establish design standards, create comprehensive documentation, and enhance design maturity within the organization.",
+            "diagnoseResultList": []
+          },
+          {
+            "itemId": "6723c237561e650a38b80bbe_workExperience_2_jobDescriptions_3",
+            "jobDescription": "Drove organizational change by introducing user research and design thinking methodologies, leading to revised product development processes and a more user-centric approach across the company.",
+            "diagnoseResultList": []
+          }
+        ],
+        "diagnoseResultList": []
+      },
+      {
+        "itemId": "6723c237561e650a38b80bbe_workExperience_3",
+        "jobTitle": "Senior Product Designer",
+        "organization": "Exxat",
+        "location": "Pune, India",
+        "dates": {
+          "startDate": "2014-05-01",
+          "completionDate": "2020-09-30",
+          "isCurrent": false
+        },
+        "summary": {
+          "itemId": "6723c237561e650a38b80bbe_workExperience_3_summary",
+          "diagnoseResultList": []
+        },
+        "jobDescriptions": [
+          {
+            "itemId": "6723c237561e650a38b80bbe_workExperience_3_jobDescriptions_0",
+            "jobDescription": "Orchestrated the design and rollout of flagship products—including Student Placement, My Placement, and Compliance—resulting in significant operational efficiency and user satisfaction gains.",
+            "diagnoseResultList": []
+          },
+          {
+            "itemId": "6723c237561e650a38b80bbe_workExperience_3_jobDescriptions_1",
+            "jobDescription": "Pioneered the introduction of structured UX processes in a previously unstructured environment, increasing design consistency and reducing iteration cycles by 30%.",
+            "diagnoseResultList": []
+          },
+          {
+            "itemId": "6723c237561e650a38b80bbe_workExperience_3_jobDescriptions_2",
+            "jobDescription": "Led the end-to-end design of evaluation summaries, patient logs, curriculum management and site profiles, optimizing workflows and reducing manual errors by 25% across key product features.",
+            "diagnoseResultList": []
+          },
+          {
+            "itemId": "6723c237561e650a38b80bbe_workExperience_3_jobDescriptions_3",
+            "jobDescription": "Designed and implemented the March 1st Mailing system and curriculum management tools, increasing clinic and university communication efficiency with student management accuracy by 40%.",
+            "diagnoseResultList": []
+          }
+        ],
+        "diagnoseResultList": []
+      },
+      {
+        "itemId": "6723c237561e650a38b80bbe_workExperience_4",
+        "jobTitle": "Research Assistant",
+        "organization": "Arizona State University",
+        "location": "Tempe, AZ",
+        "dates": {
+          "startDate": "2023-06-01",
+          "completionDate": "2024-12-31",
+          "isCurrent": false
+        },
+        "summary": {
+          "itemId": "6723c237561e650a38b80bbe_workExperience_4_summary",
+          "diagnoseResultList": []
+        },
+        "jobDescriptions": [
+          {
+            "itemId": "6723c237561e650a38b80bbe_workExperience_4_jobDescriptions_0",
+            "jobDescription": "Designed and developed a Water Chatbot with GPT 4 to allow users to learn about water conservation strategies, enhancing user engagement and awareness",
+            "diagnoseResultList": []
+          },
+          {
+            "itemId": "6723c237561e650a38b80bbe_workExperience_4_jobDescriptions_1",
+            "jobDescription": "Led independent research on a paper about how AI can augment user personas generated by user researchers, contributing to advancements in user research methodologies",
+            "diagnoseResultList": []
+          }
+        ],
+        "diagnoseResultList": []
+      }
+    ],
+    "diagnoseResultList": []
+  },
+  "skills": {
+    "itemId": "6723c237561e650a38b80bbe_skills",
+    "skills": {
+      "Design": [
+        "User Research",
+        "Design System",
+        "Product Design",
+        "User-centered design",
+        "Information Architecture",
+        "Wire-framing",
+        "Storyboarding",
+        "Prototypes",
+        "Sketches",
+        "Surveys",
+        "Personas",
+        "User testing",
+        "OOUX",
+        "WCAG Accessibility Standards"
+      ],
+      "Tools": [
+        "Figma",
+        "FigJam",
+        "Sketch",
+        "Adobe XD",
+        "Google Analytics",
+        "Pendo",
+        "Marvel",
+        "Dovetail",
+        "Qualtrics"
+      ],
+      "Coding": [
+        "Angular 8+",
+        "Python",
+        "HTML",
+        "CSS/SCSS",
+        "JavaScript",
+        "TypeScript",
+        "ASP.NET MVC",
+        "C#NET",
+        ".NET Core",
+        "SQL",
+        "SSRS",
+        "jQuery",
+        "XCode"
+      ]
+    },
+    "diagnoseResultList": []
+  },
+  "projects": {
+    "itemId": "6723c237561e650a38b80bbe_projects",
+    "projectDetails": [],
+    "diagnoseResultList": []
+  },
+  "sectionOrders": [
+    "personalInfo",
+    "summary",
+    "workExperience",
+    "education",
+    "skills",
+    "publications"
+  ],
+  "sections": [
+    { "type": "personalInfo", "name": "Personal Info" },
+    { "type": "summary", "name": "Summary" },
+    { "type": "workExperience", "name": "Work Experience" },
+    { "type": "education", "name": "Education" },
+    { "type": "skills", "name": "Skills" },
+    { "type": "publications", "name": "Publications" }
+  ],
+  "certifications": {
+    "itemId": "6723c237561e650a38b80bbe_certifications",
+    "certificationDetails": [],
+    "diagnoseResultList": []
+  },
+  "achievements": {
+    "itemId": "6723c237561e650a38b80bbe_achievements",
+    "achievementDetails": [],
+    "diagnoseResultList": []
+  },
+  "languages": {
+    "itemId": "6723c237561e650a38b80bbe_languages",
+    "languageDetails": [],
+    "diagnoseResultList": []
+  },
+  "publications": {
+    "itemId": "6723c237561e650a38b80bbe_publications",
+    "publicationDetails": [
+      {
+        "itemId": "6723c237561e650a38b80bbe_publications_0",
+        "title": "Vector Personas",
+        "description": "How UX Researchers Can Use AI to Bring New Dimension to Traditional Persona Development. In The 42nd ACM International Conference on Design of Communication (SIGDOC 24), October 2022, 2024, Fairfax, VA, USA. ACM, New York, NY, USA, 7 pages.\nhttps://doi.org/10.1145/3641237.3691663",
+        "authors": "Claire Lauer, Danielle Storey, and Romit Soley. 2024"
+      }
+    ],
+    "diagnoseResultList": []
+  }
+}

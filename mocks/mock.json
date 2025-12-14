@@ -1,0 +1,115 @@
+[
+  {
+    "name": "LinkedIn Profile",
+    "value": "https://www.linkedin.com/in/sean-dickson-91408/"
+  },
+  {
+    "name": "City where you live?",
+    "value": "New City"
+  },
+  {
+    "name": "If you are related to any current PosiGen employee (spouse, sibling, cousin, parent, etc), please provide the individual's first and last name.",
+    "value": "N/A"
+  },
+  {
+    "name": "If you were referred to this job by a current PosiGen employee, please list their first and last name here.",
+    "value": "N/A"
+  },
+  {
+    "name": "What is your mailing address?",
+    "value": "123 broadway,apt.5 new york ny"
+  },
+  {
+    "name": "What is your preferred name, if not your first name?",
+    "value": "Daniel"
+  },
+  {
+    "name": "Zip Code?",
+    "value": "10001"
+  },
+  {
+    "name": "Are you 18 years of age or older?",
+    "value": ["Yes"]
+  },
+  {
+    "name": "Country where you live?",
+    "value": ["United States of America"]
+  },
+  {
+    "name": "Do you consent to receive text messages from us, our affiliates, our contractors, or anyone else on our behalf at any telephone number that you have provided or later provide to us, including the telephone number set forth on this application?  These telephone calls and text messages may relate to any aspect of your relationship with us.  Standard call and text message charges may apply from your wireless provider, and you agree that we will not be liable for any such fees.",
+    "value": ["Yes"]
+  },
+  {
+    "name": "Do you have a driver's license and reliable transportation?",
+    "value": ["Yes"]
+  },
+  {
+    "name": "Have you ever been employed by PosiGen or any of its affiliates?",
+    "value": ["No"]
+  },
+  {
+    "name": "State where you live?",
+    "value": ["NY"]
+  },
+  {
+    "name": "Veteran Status",
+    "value": [
+      "I identify as one or more of the classifications of a protected veteran"
+    ]
+  },
+  {
+    "name": "Disability Status",
+    "value": ["I do not want to answer"]
+  },
+  {
+    "name": "First Name",
+    "value": "Daniel"
+  },
+  {
+    "name": "Last Name",
+    "value": "Wang"
+  },
+  {
+    "name": "Email",
+    "value": "test@jobright.ai"
+  },
+  {
+    "name": "Phone",
+    "value": "4123333333"
+  },
+  {
+    "name": "Gender",
+    "value": ["Male"]
+  },
+  {
+    "name": "Are you Hispanic/Latino?",
+    "value": ["Yes"]
+  },
+  {
+    "name": "Please identify your race",
+    "value": ["American Indian or Alaskan Native"]
+  },
+  {
+    "Education": [
+      {
+        "Degree": "Master's Degree",
+        "Discipline": ["Communications & Film"],
+        "School": "San Jose State University",
+        "Study": "Communication Studies with an emphasis on New Media",
+        "Start": "2014-01-01",
+        "End": "2015-01-01",
+        "isCurrent": false
+      },
+      {
+        "Degree": "Bachelor's Degree",
+        "Discipline": ["Chemistry"],
+        "School": "Purdue University",
+        "Study": "Computer Science",
+        "Start": "2024-02-16",
+        "End": "2025-02-16",
+        "isCurrent": false,
+        "gpa": "4.5/5.0"
+      }
+    ]
+  }
+]

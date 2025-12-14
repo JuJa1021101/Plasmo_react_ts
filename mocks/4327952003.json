@@ -1,0 +1,63 @@
+[
+  {
+    "name": "LinkedIn Profile",
+    "value": "https://www.linkedin.com/in/sean-dickson-91408/"
+  },
+  {
+    "name": "Website",
+    "value": "https://www.baidu.com"
+  },
+  {
+    "name": "Why Kalshi?",
+    "value": "I am passionate about product growth and innovation, and I believe Kalshi's mission aligns with my experience in managing product operations and driving growth strategies."
+  },
+  {
+    "name": "Do you live in New York City? This role requires 3-4 days a week in office.",
+    "value": "Yes"
+  },
+  {
+    "name": "Are you legally authorized to work in the United States?",
+    "value": ["Yes"]
+  },
+  {
+    "name": "Will you now or in the future require sponsorship for employment visa status (e.g., H-1B visa status)?",
+    "value": ["Yes"]
+  },
+  {
+    "name": "First Name",
+    "value": "Daniel"
+  },
+  {
+    "name": "Last Name",
+    "value": "Wang"
+  },
+  {
+    "name": "Email",
+    "value": "test@test.com"
+  },
+  {
+    "name": "Phone",
+    "value": "4123333333"
+  },
+  {
+    "Education": [
+      {
+        "Degree": "Master's Degree",
+        "Discipline": ["Communications & Film"],
+        "School": "San Jose State University",
+        "Start": "2014-01-01",
+        "End": "2015-01-01",
+        "isCurrent": false
+      },
+      {
+        "Degree": "Bachelor's Degree",
+        "Discipline": ["Chemistry"],
+        "School": "Purdue University - Calumet",
+        "Start": "2024-02-16",
+        "End": "2025-02-16",
+        "isCurrent": false,
+        "gpa": "4.5/5.0"
+      }
+    ]
+  }
+]
