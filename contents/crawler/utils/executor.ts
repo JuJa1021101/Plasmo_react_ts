@@ -36,7 +36,6 @@ export async function executeSequentially(
       console.error(`Error in function ${func.name}:`, error)
     }
 
-    console.info("delayTime", delayTime)
     // 使用指定的延迟时间
     await delay(delayTime)
   }
