@@ -1,5 +1,3 @@
-# JobRight Helper - 面试任务
-
 ## 项目概述
 
 开发一个浏览器扩展，用于自动填写 Greenhouse.io 上的求职申请表。
